@@ -1,0 +1,19 @@
+body{background-color: grey}
+
+
+ul
+{
+  background-color: black;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 25px;
+  margin: 15px;
+  color: white;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+nav li
+{
+  display: flex;
+  }
